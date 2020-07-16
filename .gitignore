@@ -1,0 +1,7 @@
+.idea
+*.test
+*.exe
+*.dll
+*.dylib
+*.out
+.DS_Store
